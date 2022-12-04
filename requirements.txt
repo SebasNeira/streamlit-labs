@@ -3,5 +3,4 @@ altair
 pandas
 numpy
 matplotlib
-plotly
-os.path
+plotly.express
